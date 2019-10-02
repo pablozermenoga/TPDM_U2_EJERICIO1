@@ -1,0 +1,2 @@
+La clase BaseDatos.kt se crea para generar la base de datos directamente con puro SQL sin ninguna otra
+interfaz, ya que el usuario no va a instalar un SGBD para utilizar la aplicación
